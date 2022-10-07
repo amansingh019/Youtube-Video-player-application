@@ -50,8 +50,12 @@ a {
   text-transform: capitalize;
   display: flex;
   border: none;
-
+  justify-content: start;
+  align-items: center;
+  cursor: pointer;
+  background: transparent;
   padding: 7px 15px;
+  outline: none;
   margin: 10px 0px;
   border-radius: 20px;
   transition: all 0.3s ease;
